@@ -20,4 +20,4 @@ let html = `<h2>Clima en ${name}, ${country}</h2>
     `
 
 
-    result.innerHTML = html;
+result.innerHTML = html;
